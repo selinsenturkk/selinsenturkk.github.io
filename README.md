@@ -26,6 +26,12 @@ R: Yeniden başla
 
 ![Gecko Runner Ekran Görüntüsü](images/ss1.png)
 
+
+![Gecko Runner Ekran Görüntüsü](images/ss2.png)
+
+
+![Gecko Runner Ekran Görüntüsü](images/ss3.png)
+
 ---
 ## Oyunun videosu 
 Youtube linki: https://www.youtube.com/watch?v=kKH5UWXTpmg 
