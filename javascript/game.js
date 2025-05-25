@@ -80,7 +80,7 @@ const player = {
 let shadowJumpOffset = 0;
 let isGameOver = false;
 let score = 0;
-let gameSpeed = 3.6; //oyun hızı
+let gameSpeed = 3.2; //oyun hızı
 
 const obstacles = [];
 const flyingObstacles = [];
@@ -378,7 +378,7 @@ function gameLoop() {
 
   // Skor ve hız
   score++;
-  if (score % 500 === 0) gameSpeed += 0.2;
+  if (score % 1500 === 0) gameSpeed += 0.2;
   if (score % 1000 === 0) {
   bonusSound.play();
   }
