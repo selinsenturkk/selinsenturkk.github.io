@@ -3,7 +3,7 @@
 
 Gecko Runner; JavaScript, HTML ve CSS kullanılarak geliştirilen sonsuz bir koşu (infinite runner) oyunudur. Oyunda bir gecko karakterini kontrol eder, engellerden kaçmaya çalışırsınız. Zıplayabilir, yukarı/aşağı hareket edebilir ve aynı zamanda kendi gölgenize gelen engellerden de kaçarak yüksek skor elde etmeye çalışırsınız.
 
-ORJINAL OYUN LİNKİ: https://sealestial-games.itch.io/gecko-runner
+ORIJINAL OYUNUN LİNKİ: https://sealestial-games.itch.io/gecko-runner
 
 ---
 
