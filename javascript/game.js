@@ -174,7 +174,7 @@ function createFlyingObstacle() {
     speed: gameSpeed,
     frame: 0,
     frameTimer: 0,
-    frameInterval: 300, //animasyon hızı
+    frameInterval: 500, //animasyon hızı
   };
   flyingObstacles.push(obstacle);
 }
