@@ -24,7 +24,7 @@ R: Yeniden başla
 
 ## Ekran Görüntüsü
 
-
+images/ss1.png
 ---
 ## Oyunun videosu 
 Youtube linki: https://www.youtube.com/watch?v=kKH5UWXTpmg 
